@@ -1,0 +1,124 @@
+  {
+  "items": [
+    {
+      "id": "1",
+      "name": "Nike Air Force 1 '07",
+      "price": 110,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F1.png?alt=media&token=e3b7c1a5-b6d2-4298-9e26-786671dcea4f",
+      "description": "The radiance lives on in the Nike Air Force 1 07, the b-ball OG that puts a fresh spin on what you know best: durably   stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
+      "quantity": "1"
+    },
+    {
+      "id": "2",
+      "name": "Nike Air Force 1 '07 WB",
+      "price": 140,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F2.png?alt=media&token=f7e5cfff-de95-4308-b975-e1001830c1ab",
+      "description": "The legend lives on in the Nike Air Force 1 '07 WB, a low-cut take on the iconic AF1 that offers classic court style and premium cushioning.",
+      "quantity": "1"
+    },
+    {
+      "id": "3",
+      "name": "Air Jordan 7 Retro SE",
+      "price": 210,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F3.png?alt=media&token=c3ec588e-192b-4ad8-9531-da568f964635",
+      "description": "Kick it back to '92 with this latest iteration of the AJ7, reviving the championship legacy for a new generation of sneakerheads. Come for the throwback style, stay all day for the premium construction and signature Air cushioning.",
+      "quantity": "1"
+    },
+    {
+      "id": "4",
+      "name": "Air Jordan 1 Mid",
+      "price": 125,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F4.png?alt=media&token=80581568-5dce-42ff-9a01-6c76d46c94c1",
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather give it a distinct identity.",
+      "quantity": "1"
+    },
+    {
+      "id": "5",
+      "name": "Nike SB Zoom Blazer Mid",
+      "price": 76.97,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F5.png?alt=media&token=b9552686-13f5-44c4-b872-d5d1c62c5695",
+      "description": "The Nike SB Zoom Blazer Mid takes a heritage design and tailors it to the needs of the modern skateboarder. Soft cushioning and a flexible sole work together to provide great boardfeel and traction",
+      "quantity": "1"
+    },
+    {
+      "id": "6",
+      "name": "Nike Air Zoom G.T. Cut 2",
+      "price": 170,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F6.png?alt=media&token=7923432e-8dc9-4d39-92f2-982eda7557bc",
+      "description": "The Nike Air Zoom G.T. Cut 2 helps you stop on a dime and accelerate back into the open lane in a low-to-the-ground design that helps increase court contact while switching direction. Separate the players from the playmakers in a model that’s built on creating separation but supportive enough to help you play all day.",
+      "quantity": "1"
+    },
+    {
+      "id": "7",
+      "name": "Nike Dunk High Retro",
+      "price": 125,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F7.png?alt=media&token=371ee8f1-6a4c-4a10-bab7-457928045115",
+      "description": "Created for the hardwood but taken to the streets, the '80s b-ball icon returns with perfectly sheened overlays and original university colors. With its classic hoops design, the Nike Dunk High Retro channels '80s vintage back onto the streets while its padded, high-top collar adds an old-school look rooted in comfort.",
+      "quantity": "1"
+    },
+    {
+      "id": "8",
+      "name": "Nike Dunk High Retro",
+      "price": 135,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F8.png?alt=media&token=bce96ca1-8623-4400-a483-a509caa8ae90",
+      "description": "  Created for the hardwood but taken to the streets, the '80s b-ball icon returns with head-turning flair and a mix of textures. And we didn't forget about the feel—channeling vintage style back onto the streets, its padded, mid-cut collar lets you take your game anywhere—in comfort.",
+      "quantity": "1"
+    },
+    {
+      "id": "9",
+      "name": "Nike Air Zoom Pegasus",
+      "price": 130,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F9.png?alt=media&token=76bbb8bd-3a1e-4cc6-bb84-68a3fc083296",
+      "description": "Running is your daily ritual, with every step taking you closer to your personal goal. Let the Nike Air Zoom Pegasus 39 help you ascend to new heights, whether you're training or jogging, with its intuitive design. More lightweight up top than the Pegasus 38 and ideal to wear in any season, it has a supportive sensation to help keep your feet contained, while underfoot cushioning and double Zoom Air units (1 more than the Peg 38) give you an extra pop to your step. Your trusted workhorse with wings is back. Time to fly.",
+      "quantity": "1"
+    },
+    {
+      "id": "26",
+      "name": "Air Jordan XXXVI Low",
+      "price": 126.97,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F26.png?alt=media&token=1b77baba-679e-4546-8ff0-67ef2ef05c7e",
+      "description": "Lace up in the energy that sparked a basketball revolution. One of the lightest Air Jordan game shoes to date, the AJ XXXVI features a minimal but durable upper with reinforcing overlay. It also comes equipped with Zoom Air cushioning for added responsiveness. Step on to the court with the confidence that whatever you do—it's light work.",
+      "quantity": "1"
+    },
+    {
+      "id": "27",
+      "name": "Air Jordan XXXVI Tatum",
+      "price": 200,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F27.png?alt=media&token=3980e333-b77c-4b7a-8c68-e58919c3c3a7",
+      "description": "From the perimeter to the hoop, take the court with confidence. This is one of the lightest on-court Air Jordans to date, with a minimal-yet-durable upper reinforced with tough plastic details. Meanwhile, Zoom Air cushioning delivers energy return and elite responsiveness. The game asks for everything—now you have the shoes to match.",
+      "quantity": "1"
+    },
+    {
+      "id": "28",
+      "name": "Air Jordan XXXVI 'Taco Jay'",
+      "price": 200,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F28.png?alt=media&token=4e3b5fb5-670e-4e79-95eb-23c59de734de",
+      "description": "Prep for the game by lacing up your AJs, win the game by channeling the heat of “Taco Jay.” The 36th generation of Air Jordan celebrates the newest superstars to build the game, and this model is all about Jayson Tatum. Bridging tunnel style with performance tech, the design pays homage to Jay's intensity on the court—and fiery hot-sauce-and-cheese inspired colors nod to his favorite post-game food.",
+      "quantity": "1"
+    },
+    {
+      "id": "29",
+      "name": "Air Jordan 7 Retro",
+      "price": 200,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F29.png?alt=media&token=3ee6ab0d-6af9-4ebb-accb-bd03e5ac10c3",
+      "description": "Inspired by the shoe originally worn by MJ during the '92 season and summer of basketball, the Air Jordan 7 Retro revives its championship legacy for a new generation of sneakerheads.",
+      "quantity": "1"
+    },
+    {
+      "id": "30",
+      "name": "Air Jordan 1 Utility",
+      "price": 170,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F30.png?alt=media&token=9ae57b85-4abc-445f-bb07-cd12c28d3084",
+      "description": "Utilitarian, but make it edgy: these AJ1s give you functional use without compromising that style you know and love. Tough canvas, stash pockets and webbing pulls give these classic kicks a hit of rugged versatility.",
+      "quantity": "1"
+    },
+    {
+      "id": "31",
+      "name": "Air Jordan 6 Retro",
+      "price": 200,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-a0b4c.appspot.com/o/Nike%2F31.png?alt=media&token=eb050e41-45a2-4c67-b40b-67cda90ce080",
+      "description": "MJ's sixth signature shoe debuted during the 1990-1991 season as His Airness battled rivals in pursuit of an elusive first championship. Now, it's back in a variety of color schemes. Gear up for the 30th anniversary of the Air Jordan 6 with this timeless classic.",
+      "quantity": "1"
+    }
+  ]
+}
