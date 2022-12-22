@@ -11,7 +11,7 @@ import 'package:shoxy/screens/09_favorit/favorite.dart';
 import 'package:shoxy/screens/10_cart/cart.dart';
 import 'package:shoxy/screens/11_notifications/notifications.dart';
 import 'package:shoxy/screens/12_profile/profile.dart';
-import 'package:shoxy/screens/13_detail/details.dart';
+import 'package:shoxy/screens/13_details/my_shoe_details.dart';
 
 void main() {
   runApp(const MyApp());
@@ -26,13 +26,14 @@ class MyApp extends StatelessWidget {
       builder: ((context, child) => MaterialApp(
               title: 'Flutter Demo',
               theme: ThemeData(
-                primarySwatch: Colors.lightBlue, 
+                primarySwatch: Colors.lightBlue,
               ),
               debugShowCheckedModeBanner: false,
-              initialRoute: '/13-details',
+              initialRoute: '/07-main-home',
               routes: {
                 '/01-splash': (context) => SplashScreen(),
                 '/02-onboard': (context) => OnBoarding(),
+                // ignore: prefer_const_constructors
                 '/03-signin': (context) => SignIn(),
                 '/04-signup': (context) => SignUp(),
                 '/05-forget': (context) => ForgetPassword(),
@@ -40,10 +41,10 @@ class MyApp extends StatelessWidget {
                 '/07-main-home': (context) => MyHomePage(),
                 '/08-home': (context) => Home(),
                 '/09-fav': (context) => Favorite(),
-                '/10-cart': (context) => CartScreen(), 
+                '/10-cart': (context) => CartScreen(),
                 '/11-noti': (context) => NotificationPage(),
                 '/12-profile': (context) => ProfilePage(),
-                '/13-details': (context) => DetailsScreen(),
+                '/13-details': (context) => MyShoeDetail(),
               })),
     );
   }

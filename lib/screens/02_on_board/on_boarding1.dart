@@ -69,9 +69,9 @@ class OnBoarding extends StatelessWidget {
             ),
 
             //Row
-            SizedBox(
-              height: 80,
-            ),
+            // SizedBox(
+            //   height: 80,
+            // ),
             Align(
               alignment: Alignment.bottomRight,
               child: Row(

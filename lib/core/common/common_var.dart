@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:shoxy/core/Widgets/hex_color_ext.dart';
 import 'package:shoxy/screens/07_main_screen/navigation.dart';
 
 //Images and Animations
@@ -21,9 +22,8 @@ const String fourDots = '${imgPath}four-dots.png';
 //Routers
 
 takeMeTo(Widget page, BuildContext context) {
-  return Navigator.of(context).push(MaterialPageRoute(builder: (context) {
-    return page;
-  }));
+  return Navigator.of(context)
+      .push(MaterialPageRoute(builder: (context) => page));
 }
 
 //Colors...

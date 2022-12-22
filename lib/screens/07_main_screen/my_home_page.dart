@@ -4,6 +4,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:auto_size_text/auto_size_text.dart';
+import 'package:shoxy/core/Widgets/hex_color_ext.dart';
 import 'package:shoxy/core/common/common_var.dart';
 import 'package:shoxy/screens/02_on_board/on_boarding1.dart';
 import 'package:shoxy/screens/03_sign_in/sign_in.dart';
